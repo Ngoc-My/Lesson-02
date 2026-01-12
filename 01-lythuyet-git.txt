@@ -1,0 +1,9 @@
+Gỉai thích các câu lệnh sau:
+1. git init
+=> Khởi tạo một Git repository (kho Git) trong thư mục hiện tại
+2. git add <file_name>
+=> Đưa một file cụ thể vào Staging Area (khu vực chờ commit)
+3. git add .
+=> Đưa tất cả các file đã thay đổi trong thư mục hiện tại vào Staging Area
+4.git commit -m "message"
+=> Lưu các thay đổi đã add vào lịch sử Git

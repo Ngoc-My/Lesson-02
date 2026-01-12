@@ -1,0 +1,19 @@
+Các lệnh đã thực hiện: 
+a. Tạo 3 file: file1, file2, file3
+b. git init
+c. git commit -m "init project" ❌ (không commit được)
+d. git add file1
+e. git commit -m "add file1" ✅
+f. git commit -m "add file" ❌ (không commit được)
+
+
+Liệt kê các file theo từng vùng sau khi thao tác một loạt các lệnh sau
+1. Working Directory
+- file2
+- file3
+
+2. Staging Area
+- Empty 
+
+3. Repository
+- file1
